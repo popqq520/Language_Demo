@@ -4,9 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-/**
- * Created by wuxiaofeng on 2017/12/18 0018.
- */
+
 
 public class Store {
 

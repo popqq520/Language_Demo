@@ -13,9 +13,6 @@ import org.greenrobot.eventbus.ThreadMode;
 
 import java.util.Locale;
 
-/**
- * Created by wuxiaofeng on 2017/12/18 0018.
- */
 
 public class BaseAc extends AppCompatActivity {
 

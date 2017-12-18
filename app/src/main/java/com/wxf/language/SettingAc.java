@@ -9,9 +9,6 @@ import android.widget.Button;
 
 import org.greenrobot.eventbus.EventBus;
 
-/**
- * Created by wuxiaofeng on 2017/12/18 0018.
- */
 
 public class SettingAc extends BaseAc {
 
