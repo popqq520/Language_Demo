@@ -1,0 +1,8 @@
+<resources>
+    <string name="lan_chinese">中国語</string>
+    <string name="lan_en">英語</string>
+    <string name="lan_ja">日本語</string>
+    <string name="lan_de">ドイツ語</string>
+    <string name="text_content">これがコンテンツの表示領域です</string>
+    <string name="select_language">言語を選択する</string>
+</resources>

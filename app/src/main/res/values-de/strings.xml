@@ -1,0 +1,8 @@
+<resources>
+    <string name="lan_chinese">Chinesisch</string>
+    <string name="lan_en">Englisch</string>
+    <string name="lan_ja">Japanisch</string>
+    <string name="lan_de">Deutsch</string>
+    <string name="text_content">Dies ist der Inhaltsanzeigebereich</string>
+    <string name="select_language">Wählen Sie eine Sprache</string>
+</resources>

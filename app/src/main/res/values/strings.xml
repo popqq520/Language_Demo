@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Language Demo</string>
+    <string name="lan_chinese">中文</string>
+    <string name="lan_en">英文</string>
+    <string name="lan_ja">日文</string>
+    <string name="lan_de">德文</string>
+    <string name="text_content">这是内容显示区</string>
+    <string name="select_language">选择一个语言</string>
+</resources>
